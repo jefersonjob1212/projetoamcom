@@ -1,0 +1,9 @@
+br\com\amcom\dao\iface\ItemRepository.class
+br\com\amcom\mb\ItemController.class
+br\com\amcom\entity\Item.class
+br\com\amcom\dao\iface\LancamentoRepository.class
+br\com\amcom\dao\ItemDAO.class
+br\com\amcom\mb\LancamentoController.class
+br\com\amcom\entity\Lancamento.class
+br\com\amcom\mb\IntersecaoController.class
+br\com\amcom\dao\LancamentoDAO.class
